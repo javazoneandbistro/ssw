@@ -1,8 +1,37 @@
-.card-img-top{
-    display: block;
-    max-width: 200px;
-    height: 200px;
-  }
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    position: fixed;
+    font-size: larger;
+    list-style: none; 
+}
+
+.navbar img{
+    width: 5%;
+    height: 5%;
+    margin-right: 40px;
+}
+
+.navbar li a{
+    padding-right: 20px;
+}
+
+.hero{
+    height: fit-content;
+}
+
+.right-image{
+    position: absolute;
+}
+
+.left-text{
+    position: absolute;
+    font-size: larger;
+    font-weight: 500;
+}
 
 .hero{
     display: block;
@@ -15,16 +44,6 @@
 .hero-text{
     height: 100%;
     position: relative;
-}
-
-.card{
-    display: flex;
-    flex-direction: row;
-}
-
-.product-heading{
-    margin: 20px;
-    padding: 20px;
 }
 
 .about-us-text{
