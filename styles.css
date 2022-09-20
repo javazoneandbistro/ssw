@@ -9,7 +9,7 @@
     list-style: none; 
 }
 
-.navbar img{
+.navbar li a img{
     width: 5%;
     height: 5%;
     margin-right: 40px;
