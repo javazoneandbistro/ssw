@@ -40,11 +40,11 @@
 
 .bg{
     background-image: url("https://images.unsplash.com/photo-1533642207954-50a3b9feafc1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1334&q=80");
-    height: 30%; 
+    height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+}
 
   .bg-img{
     opacity: 0;
