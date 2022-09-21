@@ -36,12 +36,3 @@
   .topnav .icon {
     display: none;
   }
-
-
-.bg img{
-    height: 100%; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-}
