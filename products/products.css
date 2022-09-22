@@ -20,23 +20,3 @@
     padding-right: 20px;
 }
 
-.para{
-    margin: 3% 5% 0% 5%;
-    /* padding: 5%; */
-}
-
-.card{
-    display: flex;
-    flex-direction: row;
-}
-
-.card-img-top{
-    display: block;
-    max-width: 200px;
-    height: 200px;
-}
-
-.product-heading{
-    margin: 20px;
-    padding: 20px;
-}
